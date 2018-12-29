@@ -13,4 +13,4 @@
 
 阅读文章记录：
 ------------
-> GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence，一个基于网格统计的特征点匹配方法，作者：边家旺[主页](http://jwbian.net) [论文下载链接](https://pan.baidu.com/s/1AEWBmjP92jnWSc5IYVKZyA) 提取码: wrcu () 论文研究创新点（后续添加）
+> 1.GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence，一种基于网格统计的特征点匹配方法，作者：边家旺 [作者主页](http://jwbian.net)，[论文下载链接](https://pan.baidu.com/s/1AEWBmjP92jnWSc5IYVKZyA)  提取码: wrcu。      论文研究创新点
