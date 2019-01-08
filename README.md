@@ -17,7 +17,7 @@
 
 ### 特征点检测数据集：
 * [TUM "RGB-D SLAM Dataset and Benchmark"](https://vision.in.tum.de/data/datasets/rgbd-dataset)
-* [CVLab dataset "CVLab dense multi-view stereo image database" 未标注](https://cvlab.epfl.ch/data/data-strechamvs/)
+* [CVLab dataset "CVLab dense multi-view stereo image database"](https://cvlab.epfl.ch/data/data-strechamvs/)
 * [Oxford Visual Geometry Group, "Multi-view Visual Geometry group's data set"](http://www.robots.ox.ac.uk/~vgg/data1.html)
 * [Oxford Visual Geometry Group, "Multi-view Visual Geometry group's data set2"](http://www.robots.ox.ac.uk/~vgg/data2.html)
 * [其他特征点数据集](https://pan.baidu.com/s/1HZyLfcJ_lMGUtrwbrvT7dg) 提取码：knds
