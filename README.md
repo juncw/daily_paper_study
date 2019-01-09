@@ -6,6 +6,10 @@
 --------------
 > 1.田渊栋《博士五年总结》[百度网盘链接](https://pan.baidu.com/s/1yVVFSIy_JTFPhcle8tAU4A) 提取码: 6e7r 
 
+大牛主页：
+---------
+> 1. [朱俊彦](http://people.csail.mit.edu/junyanz/)，博士后研究员（Postdoctoral researcher），主要研究图像处理领域，包括GAN。
+
 会议论文集：
 ----------
 > CVPR2018论文整理  [链接]()
