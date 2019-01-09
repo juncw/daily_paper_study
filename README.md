@@ -13,7 +13,10 @@
 
 阅读文章记录：
 ------------
-> 1.GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence，一种基于网格统计的特征点匹配方法，作者：边家旺 [作者主页](http://jwbian.net)，[论文下载链接](https://pan.baidu.com/s/1AEWBmjP92jnWSc5IYVKZyA)  提取码: wrcu。      论文研究创新点
+> 1.GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence-2017，一种基于网格统计的特征点匹配方法，作者：边家旺 [作者主页](http://jwbian.net)，[论文下载链接](https://pan.baidu.com/s/1AEWBmjP92jnWSc5IYVKZyA)  提取码: wrcu。      论文研究创新点
+
+
+> 2.APAP: As-Projective-As-Possible Image Stitching with Moving DLT-2014，提出基于网格化的图像间透视矩阵计算方法，作者：Julio Zaragoza（Austraila）[作者主页](https://cs.adelaide.edu.au/~tjchin/apap/)，[论文下载链接](https://pan.baidu.com/s/16-Rwt8l0DApRFjDrX9ukdQ)  提取码：m6fr
 
 ### 特征点检测数据集：
 * [TUM "RGB-D SLAM Dataset and Benchmark"](https://vision.in.tum.de/data/datasets/rgbd-dataset)
