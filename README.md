@@ -22,6 +22,8 @@
 
 > 2.APAP: As-Projective-As-Possible Image Stitching with Moving DLT-2014，提出基于网格化的图像间透视矩阵计算方法，作者：Julio Zaragoza（Austraila）[作者主页](https://cs.adelaide.edu.au/~tjchin/apap/)，[论文下载链接](https://pan.baidu.com/s/16-Rwt8l0DApRFjDrX9ukdQ)  提取码：m6fr
 
+> 3.三维重建概述 [百度网盘](链接: https://pan.baidu.com/s/1bb7WmIu7cghxqZioT1ul3Q) 提取码: frcd
+
 ### 特征点检测数据集：
 * [TUM "RGB-D SLAM Dataset and Benchmark"](https://vision.in.tum.de/data/datasets/rgbd-dataset)
 * [CVLab dataset "CVLab dense multi-view stereo image database"](https://cvlab.epfl.ch/data/data-strechamvs/)
