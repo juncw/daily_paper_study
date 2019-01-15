@@ -8,7 +8,12 @@
 
 大牛主页：
 ---------
-> 1. [朱俊彦](http://people.csail.mit.edu/junyanz/)，博士后研究员（Postdoctoral researcher），主要研究图像处理领域，包括GAN。
+> 1. [朱俊彦](http://people.csail.mit.edu/junyanz/)，博士后研究员（Postdoctoral researcher），主要研究图像处理领域，包括GAN。 <br />
+
+机器学习相关
+----------
+> 1. 红色的石头网站，专注分享深度学习方面的文章。[红色的石头](http://redstonewill.com/)<br />
+> 2. 由Avik-Jain作者上传的“机器学习100天”，有代码和讲解。https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 
 会议论文集：
 ----------
